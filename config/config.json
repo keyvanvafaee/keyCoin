@@ -1,0 +1,16 @@
+{
+    "DataBase": {
+        "database_name": "scorpian-coin",
+        "database_username": "root",
+        "database_password": "root"
+    },
+    "URL": "https://127.0.0.1/",
+    "Account": {
+        "api_id": 3680948,
+        "api_hash": "c34e4abd69b50710f4df2c1651c88029",
+        "token": "2061919388:AAGQlfc4kWefQmIrhTCt196kL88Aq6pNso0",
+        "admin_username": "Keyone1376",
+        "chanell_link": "keyOne",
+        "bot_link": "keivanVAfaeeBot"
+    }
+}
